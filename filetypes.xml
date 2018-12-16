@@ -2,18 +2,19 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="service层" type="PLAIN_TEXT" />
-      <mapping pattern="单元测试" type="PLAIN_TEXT" />
       <mapping pattern="sfa" type="PLAIN_TEXT" />
       <mapping pattern="user" type="PLAIN_TEXT" />
       <mapping pattern="处理数据库" type="PLAIN_TEXT" />
       <mapping pattern="拦截器" type="PLAIN_TEXT" />
+      <mapping pattern="单元测试" type="PLAIN_TEXT" />
+      <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping pattern="service的实现" type="PLAIN_TEXT" />
       <mapping pattern="放接口用的" type="PLAIN_TEXT" />
       <mapping pattern="room" type="PLAIN_TEXT" />
       <mapping pattern="放bean的" type="PLAIN_TEXT" />
       <mapping pattern="pom" type="PLAIN_TEXT" />
-      <mapping pattern="ds" type="PLAIN_TEXT" />
       <mapping ext="我也没用过" type="PLAIN_TEXT" />
+      <mapping ext="processor" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
